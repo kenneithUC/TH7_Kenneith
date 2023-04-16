@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\bin\Debug\TH 7 Kenneith.exe.config
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\bin\Debug\TH 7 Kenneith.exe
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\bin\Debug\TH 7 Kenneith.pdb
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH 7 Kenneith.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH 7 Kenneith.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH_7_Kenneith.Form1.resources
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH_7_Kenneith.Form2.resources
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH_7_Kenneith.Properties.Resources.resources
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH 7 Kenneith.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH 7 Kenneith.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH 7 Kenneith.exe
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH 7 Kenneith.pdb
+C:\Users\ROG\source\repos\TH 7 Kenneith\TH 7 Kenneith\obj\Debug\TH_7_Kenneith.Form3.resources
